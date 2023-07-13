@@ -28,7 +28,7 @@ The course provides the initial programming skills required for all technology m
 <details>
   <summary><b>Programming Basics with C# Certificate jpg</b></summary>
   <p align="center">
-   **Certificate - [Programming Basics with C#](https://softuni.bg/certificates/details/151147/cf23d9d6)**
+   <img src="https://raw.githubusercontent.com/radrex/SoftuniCourses/master/certificates/Programming%20Basics%20C%23.jpg">
   </p>
 </details>
 
