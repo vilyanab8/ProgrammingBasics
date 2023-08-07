@@ -39,4 +39,35 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 </table>
 <br/>
 
----
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="18" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T01_USDtoBGN">USD to BGN</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T02_RadiansToDegrees">Radians to Degrees</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T03_DepositCalculator">Deposit Calculator</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T04_VacationBooksList">Vacation Books List</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T05_SuppliesForSchool">Supplies for School</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T06_Repainting">Repainting</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T07_FoodDelivery">Food Delivery</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T08_BasketballEquipment">Basketball Equipment</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-Exercise/T09_FishTank">Fish Tank
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
