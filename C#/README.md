@@ -5,4 +5,38 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 
 ---
 
-## <a href="https://github.com/radrex/SoftuniCourses/tree/master/Programming%20Basics/C%23/01.FirstStepsInCoding">01. First Steps in Coding</a>
+## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding">01. First Steps in Coding</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="18" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T01_HelloSoftUni">Hello SoftUni</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T02_Nums1To10">Nums 1...10</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T03_RectangleArea">Rectangle Area</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T04_InchesToCentimeters">Inches to Centimeters</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T05_GreetingByName">Greeting by Name</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T06_ConcatenateData">Concatenate Data</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T07_ProjectsCreation">Projects Creation</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T08_PetShop">Pet Shop</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding/T09_YardGreening">Yard Greening
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+---
