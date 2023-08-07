@@ -1,5 +1,4 @@
 using System;
-
 namespace Hello_SoftUni
 {
     class Program
