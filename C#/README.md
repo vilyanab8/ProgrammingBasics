@@ -107,3 +107,32 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 <br/>
 
 ---
+
+## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding">02. Conditional Statements</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="14" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements/T01_ExcellentResult">Excellent Result</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements/T02_GreaterNumber">Greater Number</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements/T03_EvenOrOdd">Even or Odd</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements/T04_PasswordGuess">Password Guess</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements/T05_Number100To200">Number 100...200</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements/T06_SpeedInfo">Speed Info</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements/T07_AreaOfFigures">Area of Figures</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
