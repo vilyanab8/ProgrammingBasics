@@ -72,4 +72,37 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 </table>
 <br/>
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="20" style="text-align:center;">More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T01_TrapezoidArea">Trapeziod Area</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T02_TriangleArea">Triangle Area</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T03_CelsiusToFahrenheit">Celsius to Fahrenheit</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T04_VegetableMarket">Vegetable Market</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T05_TrainingLab">Training Lab</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T06_Fishland">Fishland</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T07_HousePainting">House Painting</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T08_CircleAreaAndPerimeter">Circle Area and Perimeter</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T09_WeatherForecast">Weather Forecast
+</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding-MoreExercise/T10_WeatherForecast-Part2">Weather Forecast - Part 2</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
 ---
