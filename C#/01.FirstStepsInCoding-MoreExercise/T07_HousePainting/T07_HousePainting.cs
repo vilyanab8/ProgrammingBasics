@@ -18,3 +18,4 @@ double red = total1 / 4.3;
 
 Console.WriteLine($"{green:f2}");
 Console.WriteLine($"{red:f2}");
+
