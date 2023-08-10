@@ -15,3 +15,4 @@ double clamSum = clamKilograms * 7.50;
 double subTotal = bonitoSum + scadSum + clamSum;
 Console.WriteLine($"{subTotal:f2}");
 
+
