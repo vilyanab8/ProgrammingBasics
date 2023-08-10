@@ -9,3 +9,4 @@ double col = Math.Round(w1 / 120);
 
 double total = col * tables - 3;
 Console.WriteLine(total);
+
