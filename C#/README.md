@@ -135,3 +135,32 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
   </tbody>
 </table>
 <br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="16" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T01_SumSeconds">Sum Seconds</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T02_BonusScore">Bonus Score</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T03_Time%2B15Minutes">Time + 15 Minutes</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T04_ToyShop">Toy Shop</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T05_GodzillaVs.Kong">Godzilla vs. Kong</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T06_WorldSwimmingRecord">World Swimming Record</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T07_Shopping">Shopping</a></td>
+       <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-Exercise/T08_LunchBreak">Lunch Break</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
