@@ -267,3 +267,40 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
   </tbody>
 </table>
 <br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="20" style="text-align:center;">More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T01_MatchTickets">Match Tickets</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T02_BikeRace">Bike Race
+</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T03_Flowers">Flowers</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T04_CarToGo">Car To Go</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T05_Vacation">Vacation</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T06_TruckDriver">Truck Driver</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T07_SchoolCamp">School Camp</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T08_PointOnRectangleBorder">Point on Rectangle Border</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T09_NumbersFrom1To10">Numbers from 1 to 10
+</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T10_MultiplyBy2">Multiply by 2</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+---
