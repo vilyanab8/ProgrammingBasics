@@ -164,3 +164,33 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
   </tbody>
 </table>
 <br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="16" style="text-align:center;">More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T01_PipesInPool">Pipes In Pool</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T02_SleepyTomCat">Sleepy Tom Cat</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T03_Harvest">Harvest</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T04_TransportPrice">Transport Price</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T05_Pets">Pets</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T06_FlowerShop">Flower Shop</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T07_FuelTank">Fuel Tank</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T08_FuelTank-Part2">Fuel Tank - Part 2</a></td>
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
