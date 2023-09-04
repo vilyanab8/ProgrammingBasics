@@ -107,7 +107,7 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 
 ---
 
-## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding">02. Conditional Statements</a>
+## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements">02. Conditional Statements</a>
 
 <table>
   <thead>
@@ -190,6 +190,47 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
       <td><b>08.</b></td>
       <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/02.ConditionalStatements-MoreExercises/T08_FuelTank-Part2">Fuel Tank - Part 2</a></td>
 </a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+---
+
+## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced">03.Conditional Statements Advanced</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="24" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T01_DayOfWeek">Day of Week</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T02_WeekendOrWorkingDay">Weekend or Working Day</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T03_AnimalType">Animal Type</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T04_PersonalTitles">Personal Titles</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T05_SmallShop">Small Shop</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T06_NumberInRange">Number in Range</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T07_WorkingHours">Working Hours</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T08_CinemaTicket">Cinema Ticket</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T09_FruitOrVegetable">Fruit or Vegetable</a></td>
+       <td><b>10.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T10_InvalidNumber">Invalid Number</a></td>
+      <td><b>11.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T11_FruitShop">Fruit Shop</a></td>
+       <td><b>12.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced/T12_TradeCommissions">Trade Commissions</a></td>
     </tr>
   </tbody>
 </table>
