@@ -235,3 +235,35 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
   </tbody>
 </table>
 <br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="18" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T01_Cinema">Cinema</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T02_SummerOutfit">Summer Outfit</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T03_NewHouse">New House</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T04_FishingBoat">Fishing Boat</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T05_Journey">Journey</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T06_OperationsBetweenNumbers">Operations Between Numbers</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T07_HotelRoom">Hotel Room</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T08_OnTimeForTheExam">On Time for the Exam</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-Exercise/T09_SkiTrip">Ski Trip
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
