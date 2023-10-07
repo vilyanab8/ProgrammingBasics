@@ -298,6 +298,11 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 </a></td>
       <td><b>10.</b></td>
       <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T10_MultiplyBy2">Multiply by 2</a></td>
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
 
 ---
 
