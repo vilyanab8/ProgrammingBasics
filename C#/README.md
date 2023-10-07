@@ -298,6 +298,39 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 </a></td>
       <td><b>10.</b></td>
       <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/03.ConditionalStatementsAdvanced-MoreExercises/T10_MultiplyBy2">Multiply by 2</a></td>
+
+---
+
+## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop">04. For Loop</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="20" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T01_NumbersFrom1To100">Numbers from 1 to 100</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T02_NumbersNTo1">Numbers N...1</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T03_Numbers1ToNWithStep3">Numbers 1...N with Step 3</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T04_EvenPowersOf2">Even Powers of 2</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T05_CharacterSequence">Character Sequence</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T06_VowelsSum">Vowels Sum</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T07_SumNumbers">Sum Numbers</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T08_NumberSequence">Number sequence</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T09_LeftAndRightSum">Left and Right Sum</a></td>
+       <td><b>10.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop/T10_OddEvenSum">Odd Even Sum</a></td>
     </tr>
   </tbody>
 </table>
