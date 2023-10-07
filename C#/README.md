@@ -341,4 +341,34 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 </table>
 <br/>
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="16" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T01_NumbersEndingIn7">Numbers Ending in 7</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T02_HalfSumElement">Half Sum Element</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T03_Histogram">Histogram</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T04_CleverLily">Clever Lily</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T05_Salary">Salary</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T06_Oscars">Oscars</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T07_TrekkingMania">Trekking Mania</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.ForLoop-Exercise/T08_TennisRanklist">Tennis Ranklist</a></td>
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
 ---
