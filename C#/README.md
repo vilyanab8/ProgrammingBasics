@@ -371,4 +371,42 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 </table>
 <br/>
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="22" style="text-align:center;">More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T01_BackToThePast">Back To The Past</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T02_Hospital">Hospital
+</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T03_Logistics">Logistics</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T04_Grades">Grades</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T05_GameOfIntervals">Game Of Intervals</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T06_Bills">Bills</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T07_FootballLeague">Football League</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T08_EqualPairs">Equal Pairs</a></td>
+      <td><b>09.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T09_Clock">Clock
+</a></td>
+      <td><b>10.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T10_Clock-Part2">Clock - part 2</a></td>
+       <td><b>11.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/04.Forloop-MoreExercises/T11_Odd%5CEvenPosition">Odd / Even Position</a></td>
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
 ---
