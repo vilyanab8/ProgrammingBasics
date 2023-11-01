@@ -19,7 +19,6 @@ The course provides the initial programming skills required for all technology m
 **Tasks written in** :
 - [x] **C#** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 - [ ] **C++**
-- [ ] **PHP**
 - [ ] **Java**
 - [ ] **Python**
 
