@@ -410,3 +410,35 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 <br/>
 
 ---
+
+## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop">05. While Loop</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="16" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T01_ReadText">Read Text</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T02_Password">Password</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T03_SumNumbers">Sum Numbers</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T04_Sequence2k%2B1">Sequence 2k+1</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T05_AccountBalance">Account Balance</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T06_MaxNumber">Max Number</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T07_MinNumber">Min Number</a></td>
+      <td><b>08.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop/T08_Graduation">Graduation</a></td>
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
