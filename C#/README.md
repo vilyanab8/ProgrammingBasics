@@ -470,3 +470,28 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
   </tbody>
 </table>
 <br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="10" style="text-align:center;">More Exercises</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-MoreExercises/T01_Dishwasher">Dishwasher</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-MoreExercises/T02_ReportSystem">Report System</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-MoreExercises/T03_StreamOfLetters">Stream Of Letters</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-MoreExercises/T04_NumbersDividedBy3WithoutReminder">Numbers Divided by 3 Without Reminder</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-MoreExercises/T05_AverageNumber">Average Number</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+
+---
