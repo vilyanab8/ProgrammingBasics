@@ -442,3 +442,31 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
   </tbody>
 </table>
 <br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="14" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-Exercise/T01_OldBooks">Old Books</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-Exercise/T02_ExamPreparation">Exam Preparation</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-Exercise/T03_Vacation">Vacation</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-Exercise/T04_Walking">Walking</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-Exercise/T05_Coins">Coins</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-Exercise/T06_Cake">Cake</a></td>
+      <td><b>07.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/05.WhileLoop-Exercise/T07_Moving">Moving</a></td>
+</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
