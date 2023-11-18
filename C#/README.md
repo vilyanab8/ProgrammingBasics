@@ -495,3 +495,30 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
 <br/>
 
 ---
+
+## <a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/01.FirstStepsInCoding">06. Nested Loops</a>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="12" style="text-align:center;">Lab</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops/T01_Clock">Clock</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops/T02_MultiplicationTable">Multiplication Table</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops/T03_Combinations">Combinations</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops/T04_SumOfTwoNumbers">Sum of Two Numbers</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops/T05_Travelling">Travelling</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops/T06_Building">Building</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
