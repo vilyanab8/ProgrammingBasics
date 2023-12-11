@@ -522,3 +522,28 @@ Judge Contest and Task explanation can be found here: <a href="https://judge.sof
   </tbody>
 </table>
 <br/>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="12" style="text-align:center;">Exercise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>01.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops-Exercise/T01_NumberPyramid">Number Pyramid</a></td>
+      <td><b>02.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops-Exercise/T02_EqualSumsEvenOddPosition">Equal Sums Even Odd Position</a></td>
+      <td><b>03.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops-Exercise/T03_SumPrimeNonPrime">Sum Prime Non Prime</a></td>
+      <td><b>04.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops-Exercise/T04_TrainTheTrainers">Train The Trainers</a></td>
+      <td><b>05.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops-Exercise/T05_SpecialNumbers">Special Numbers</a></td>
+       <td><b>06.</b></td>
+      <td><a href="https://github.com/vilyanab8/ProgrammingBasics/tree/main/C%23/06.NestedLoops-Exercise/T06_CinemaTickets">Cinema Tickets</a></td>
+    </tr>
+  </tbody>
+</table>
+<br/>
